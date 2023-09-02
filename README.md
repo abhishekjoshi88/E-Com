@@ -1,3 +1,3 @@
 # E-Com
-- [Demo] (https://glowing-cucurucho-489707.netlify.app/)
+- [Demo](https://glowing-cucurucho-489707.netlify.app/)
  
